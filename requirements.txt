@@ -1,0 +1,10 @@
+streamlit
+requests
+pandas
+python-whois
+dnspython
+tldextract
+easyocr
+Pillow
+beautifulsoup4
+scikit-learn
